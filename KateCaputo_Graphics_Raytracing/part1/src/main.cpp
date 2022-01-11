@@ -48,7 +48,7 @@ int main() {
 
     //  OBJECT
 
-    OBJ* o = new OBJ("./../../common/objects/house/house_obj.obj");
+    OBJ* o = new OBJ("./../common/objects/house/house_obj.obj");
 
     // GET THE LIST OF TRIANGLES FROM THE OBJECT
     std::vector<Hittable *> listTri = o->getTriangles(); 
