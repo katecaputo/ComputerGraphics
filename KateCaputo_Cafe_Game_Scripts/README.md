@@ -5,3 +5,5 @@ I also was responsible for working within the Unity interface to ensure that my 
 
 This folder holds the scripts only, along with a video walkthrough of the game, however the entire Unity project is available upon request.
 Please note that in the video walkthrough, the 'win score' is currently set to 1 for simplicity.
+
+<img src="./exampleOutput.ppm">
