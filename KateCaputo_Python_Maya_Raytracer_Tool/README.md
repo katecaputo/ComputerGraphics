@@ -5,5 +5,3 @@ This 'tool' outputs a .ppm file of desired height, width, filepath, and name tha
 
 Though the tool does not have direct application in an animation pipeline, through its iteration and conception I was able to improve my Python and Maya scripting abilities, test the limits, strengths, and weaknesses of the Maya script editor, experiment with incorporating scene information into my code, increase my familiarity with the scripting for Maya GUI tools, and revisit my work on building ray tracers.
 
-
-<img src="./exampleOutput.ppm">
